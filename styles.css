@@ -1,3 +1,24 @@
-body {
-  background: orange;
+.html {
+  background-color: rgb(0, 0, 0);
+}
+
+.img-container {
+  width: 100%;
+  display: flex;
+}
+
+.img1 {
+  flex: 3;
+  height: 250px;
+}
+
+.img2 {
+  flex: 1;
+  height: 250px;
+  background-color: transparent;
+
+}
+
+.character-button {
+  background-color: aliceblue;
 }
